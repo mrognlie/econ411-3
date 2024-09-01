@@ -10,3 +10,18 @@ The main folder also includes core Python modules that are called by notebooks:
 - `sim_steady_state_fast.py` (a somewhat faster addition to `sim_steady_state.py`, developed in the Lecture 3 supplementary notebook in `notebooks`)
 - `life_cycle.py` (very basic life-cycle model code, used in Lecture 6)
 - `sim_fake_news.py` (basic code for implementing the fake news algorithm for sequence-space Jacobians in the SIM model, using algorithm described in Lecture 7)
+
+The topics of each lecture are:
+
+- Lecture 1: Course Overview
+- Lecture 2: The Standard Incomplete Markets (SIM) Model
+- Lecture 3: Computing the Steady State of the SIM Model
+- Lecture 4: General Equilibrium in the SIM Model
+- Lecture 5: The Pareto Distribution and Fat Tails for Income and Wealth
+- Lecture 6: Life-Cycle / Overlapping Generations Models
+- Lecture 7: Dynamics and Sequence-Space Jacobians in the SIM Model
+- Lecture 8: Introduction to HANK and Fiscal Policy
+- Lecture 9: Introduction to Monetary Policy in HANK
+- Lecture 10: Departing from Full Information and Rational Expectations (“FIRE”)
+- Lecture 11: Models of Pricing and Inflation
+- Lecture 12: Multiple Sectors in an Input-Output Network
