@@ -29,6 +29,6 @@ The topics of each lecture are:
 - Lecture 12: Multiple sectors in an input-output network
 
 ### Technical requirements and other materials
-The Jupyter notebooks and modules require Python and the `numpy`, `scipy`, `matplotlib`, and `numba` modules.
+The Jupyter notebooks and modules require Python and the `numpy`, `scipy`, `matplotlib`, and `numba` libraries.
 
 For closely related materials, please take a look at our [2023 NBER workshop page](https://github.com/shade-econ/nber-workshop-2023/tree/main), which includes recordings where I cover the computational material in Lecture 3 (and expectation functions in the supplement to Lecture 7).
