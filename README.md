@@ -13,6 +13,7 @@ The main folder also includes core Python modules that are called by notebooks:
 - [`life_cycle.py`](https://github.com/mrognlie/econ411-3/blob/main/life_cycle.py) (very basic life-cycle model code, used in Lecture 6)
 - [`sim_fake_news.py`](https://github.com/mrognlie/econ411-3/blob/main/sim_fake_news.py) (basic code for implementing the fake news algorithm for sequence-space Jacobians in the SIM model, using algorithm described in Lecture 7)
 
+
 The topics of each lecture are:
 
 - [Lecture 1:](https://mrognlie.github.io/econ411-3/econ411_3_lecture1.pdf) Course overview
@@ -33,6 +34,8 @@ Problem sets and review materials:
 - [Problem set 1](https://mrognlie.github.io/econ411-3/psets_and_review/econ411_3_ps1.pdf), [Problem set 2](https://mrognlie.github.io/econ411-3/psets_and_review/econ411_3_ps2.pdf), [Problem set 3](https://mrognlie.github.io/econ411-3/psets_and_review/econ411_3_ps3.pdf)
 - [Midterm review questions](https://mrognlie.github.io/econ411-3/psets_and_review/econ411_3_midterm_review_questions.pdf) and [solutions](https://mrognlie.github.io/econ411-3/psets_and_review/econ411_3_midterm_review_solutions.pdf)
 - [Final review questions](https://mrognlie.github.io/econ411-3/psets_and_review/econ411_3_final_review_questions.pdf) and [solutions](https://mrognlie.github.io/econ411-3/psets_and_review/econ411_3_final_review_solutions.pdf)
+
+[Course syllabus](https://mrognlie.github.io/econ411-3/econ411_3_syllabus.pdf)
 
 ### Technical requirements and other materials
 The Jupyter notebooks and modules require Python and the `numpy`, `scipy`, `matplotlib`, and `numba` libraries.
